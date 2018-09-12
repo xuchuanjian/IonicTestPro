@@ -1,0 +1,7 @@
+{
+  "name": "buios",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
